@@ -1,0 +1,2 @@
+# TheBestLuckPluginEver
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9b2b4f6e944e4e7994c9000d2a1113a2)](https://app.codacy.com/gh/nullTheCoder/TheBestLuckPluginEver?utm_source=github.com&utm_medium=referral&utm_content=nullTheCoder/TheBestLuckPluginEver&utm_campaign=Badge_Grade_Settings)
